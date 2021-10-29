@@ -1,4 +1,11 @@
 # assignment2
+
+**Name: Uppu Anushna
+
+**Roll number: CS21M504
+
+**Registered Mail ID: anushna.uppu@gmail.com
+
 This repository contains 2 files
 
 1.PDF for Hand written answers
